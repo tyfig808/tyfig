@@ -7,3 +7,5 @@ masters - UZH evolutionary biology
 phd - UZH evolutionary biology (in progress)
 
 cooking cleaning
+
+my mom is yes
