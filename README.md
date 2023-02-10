@@ -9,3 +9,5 @@ phd - UZH evolutionary biology (in progress)
 cooking cleaning
 
 my mom is yes
+
+https://scholar.google.com/scholar?as_ylo=2019&q=genomic+divergence&hl=en&as_sdt=0,5
